@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1554941162 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase18/CLASE_7/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1554944863 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase18/CLASE_7/MiBiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555021934 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7(2)/MiBiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1555022353 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7(2)/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1554941062 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7(2)/MiBiblioteca.h
+
+1555022183 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7(2)/utn.h
+
+1555022183 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7(2)/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1555031178 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7-2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1555022183 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7-2/utn.h
+
+1555026583 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7-2/MiBiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MiBiblioteca.h"
+
+1554941062 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7-2/MiBiblioteca.h
+
+1555022183 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/CLASE_7-2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
